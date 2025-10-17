@@ -15,7 +15,7 @@ This innovation bridges **AI accessibility** and **holographic visualization** f
 ![Use Cases](images/use_cases.jpg)
 
 ### System Architecture & Setup  
-![System Setup](images/system_setup.jpg)
+![System Setup](images/system_setup.JPG)
 
 ### Holographic Interaction & Display  
 ![Holographic Display](images/holographic_display.jpg)
