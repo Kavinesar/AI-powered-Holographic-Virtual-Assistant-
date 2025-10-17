@@ -15,10 +15,10 @@ This innovation bridges **AI accessibility** and **holographic visualization** f
 ![Use Cases](images/use_cases.jpg)
 
 ### System Architecture & Setup  
-![System Setup](images/system_setup.png)
+![System Setup](images/system_setup.jpg)
 
 ### Holographic Interaction & Display  
-![Holographic Display](images/holographic_display.png)
+![Holographic Display](images/holographic_display.jpg)
 
 ### ⚙️ Tech Stack
 - **Hardware:** Raspberry Pi 4B  
