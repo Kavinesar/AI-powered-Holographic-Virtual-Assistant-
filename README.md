@@ -12,7 +12,7 @@ This innovation bridges **AI accessibility** and **holographic visualization** f
 ## Project Highlights
 
 ### Pseudo Code  
-![Use Cases](images/use_cases.jpg)
+![Use Cases](images/pcd.jpg)
 
 ### System Architecture & Setup  
 ![System Setup](images/system_setup.JPG)
